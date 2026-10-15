@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="700" viewBox="0 0 690 700" font-family="Segoe UI, Arial, sans-serif" role="img">
+<title>Residual risk (after controls)</title>
+<rect width="690" height="700" fill="#ffffff"/>
+<text x="345.0" y="32" text-anchor="middle" font-size="20" font-weight="600" fill="#111827">Residual risk (after controls)</text>
+<rect x="120" y="500" width="110" height="110" fill="#16a34a" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="126" y="516" font-size="11" fill="#374151">1 Low</text>
+<rect x="230" y="500" width="110" height="110" fill="#16a34a" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="236" y="516" font-size="11" fill="#374151">2 Low</text>
+<rect x="340" y="500" width="110" height="110" fill="#16a34a" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="346" y="516" font-size="11" fill="#374151">3 Low</text>
+<text x="395.0" y="552" text-anchor="middle" font-size="14" font-weight="700" fill="#111827">R09</text>
+<rect x="450" y="500" width="110" height="110" fill="#16a34a" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="456" y="516" font-size="11" fill="#374151">4 Low</text>
+<text x="505.0" y="552" text-anchor="middle" font-size="14" font-weight="700" fill="#111827">R07, R12</text>
+<rect x="560" y="500" width="110" height="110" fill="#facc15" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="566" y="516" font-size="11" fill="#374151">5 Medium</text>
+<text x="110" y="559.0" text-anchor="end" font-size="12" fill="#111827">1 Rare</text>
+<rect x="120" y="390" width="110" height="110" fill="#16a34a" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="126" y="406" font-size="11" fill="#374151">2 Low</text>
+<rect x="230" y="390" width="110" height="110" fill="#16a34a" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="236" y="406" font-size="11" fill="#374151">4 Low</text>
+<text x="285.0" y="442" text-anchor="middle" font-size="14" font-weight="700" fill="#111827">R04, R10, R13</text>
+<text x="285.0" y="460" text-anchor="middle" font-size="14" font-weight="700" fill="#111827">R14</text>
+<rect x="340" y="390" width="110" height="110" fill="#facc15" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="346" y="406" font-size="11" fill="#374151">6 Medium</text>
+<text x="395.0" y="442" text-anchor="middle" font-size="14" font-weight="700" fill="#111827">R02, R05, R06</text>
+<rect x="450" y="390" width="110" height="110" fill="#facc15" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="456" y="406" font-size="11" fill="#374151">8 Medium</text>
+<text x="505.0" y="442" text-anchor="middle" font-size="14" font-weight="700" fill="#111827">R01, R03, R11</text>
+<rect x="560" y="390" width="110" height="110" fill="#ea580c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="566" y="406" font-size="11" fill="#374151">10 High</text>
+<text x="110" y="449.0" text-anchor="end" font-size="12" fill="#111827">2 Unlikely</text>
+<rect x="120" y="280" width="110" height="110" fill="#16a34a" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="126" y="296" font-size="11" fill="#374151">3 Low</text>
+<rect x="230" y="280" width="110" height="110" fill="#facc15" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="236" y="296" font-size="11" fill="#374151">6 Medium</text>
+<text x="285.0" y="332" text-anchor="middle" font-size="14" font-weight="700" fill="#111827">R08, R15</text>
+<rect x="340" y="280" width="110" height="110" fill="#facc15" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="346" y="296" font-size="11" fill="#374151">9 Medium</text>
+<rect x="450" y="280" width="110" height="110" fill="#ea580c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="456" y="296" font-size="11" fill="#374151">12 High</text>
+<rect x="560" y="280" width="110" height="110" fill="#ea580c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="566" y="296" font-size="11" fill="#374151">15 High</text>
+<text x="110" y="339.0" text-anchor="end" font-size="12" fill="#111827">3 Possible</text>
+<rect x="120" y="170" width="110" height="110" fill="#16a34a" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="126" y="186" font-size="11" fill="#374151">4 Low</text>
+<rect x="230" y="170" width="110" height="110" fill="#facc15" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="236" y="186" font-size="11" fill="#374151">8 Medium</text>
+<rect x="340" y="170" width="110" height="110" fill="#ea580c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="346" y="186" font-size="11" fill="#374151">12 High</text>
+<rect x="450" y="170" width="110" height="110" fill="#ea580c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="456" y="186" font-size="11" fill="#374151">16 High</text>
+<rect x="560" y="170" width="110" height="110" fill="#b91c1c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="566" y="186" font-size="11" fill="#374151">20 Critical</text>
+<text x="110" y="229.0" text-anchor="end" font-size="12" fill="#111827">4 Likely</text>
+<rect x="120" y="60" width="110" height="110" fill="#facc15" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="126" y="76" font-size="11" fill="#374151">5 Medium</text>
+<rect x="230" y="60" width="110" height="110" fill="#ea580c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="236" y="76" font-size="11" fill="#374151">10 High</text>
+<rect x="340" y="60" width="110" height="110" fill="#ea580c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="346" y="76" font-size="11" fill="#374151">15 High</text>
+<rect x="450" y="60" width="110" height="110" fill="#b91c1c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="456" y="76" font-size="11" fill="#374151">20 Critical</text>
+<rect x="560" y="60" width="110" height="110" fill="#b91c1c" fill-opacity="0.35" stroke="#ffffff" stroke-width="2"/>
+<text x="566" y="76" font-size="11" fill="#374151">25 Critical</text>
+<text x="110" y="119.0" text-anchor="end" font-size="12" fill="#111827">5 Almost certain</text>
+<text x="175.0" y="630" text-anchor="middle" font-size="12" fill="#111827">1 Negligible</text>
+<text x="285.0" y="630" text-anchor="middle" font-size="12" fill="#111827">2 Minor</text>
+<text x="395.0" y="630" text-anchor="middle" font-size="12" fill="#111827">3 Moderate</text>
+<text x="505.0" y="630" text-anchor="middle" font-size="12" fill="#111827">4 Major</text>
+<text x="615.0" y="630" text-anchor="middle" font-size="12" fill="#111827">5 Severe</text>
+<text x="395.0" y="660" text-anchor="middle" font-size="14" font-weight="600" fill="#111827">Impact</text>
+<text x="20" y="335.0" text-anchor="middle" font-size="14" font-weight="600" fill="#111827" transform="rotate(-90 20 335.0)">Likelihood</text>
+</svg>
